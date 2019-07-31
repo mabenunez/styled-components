@@ -1,0 +1,27 @@
+@media(max-width:1900px){
+    .check {
+    text-align: right;
+    margin-left: 1150px;
+    }
+} 
+@media(max-width:700px){
+    .check {
+    text-align: right;
+    margin-left: 150px;
+    }
+} 
+
+.item {
+    text-align: left;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.row {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border: 1px solid
+}
+
